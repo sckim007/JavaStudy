@@ -38,6 +38,7 @@ public class MyFirstClass1 {
 		
 		//int aa,bb,cc;
 		//int aa=0, bb=1, cc=2;
+		System.out.println("git test-01");
 		
 	}
 }
