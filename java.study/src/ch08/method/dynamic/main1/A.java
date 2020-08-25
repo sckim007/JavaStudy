@@ -1,4 +1,4 @@
-package ch08.method.dynamicandgenerics.main1;
+package ch08.method.dynamic.main1;
 
 public class A {
 	/** 동적파라메터 사용 */
