@@ -1,5 +1,11 @@
 package ch08.method.stringandstringbuffer.main1;
 
+/** 요약
+ * 
+ * @author sckim007@gmail.com
+ *
+ * 파일을 입력받아 해당 정보를 왹득하여 출력함
+ */
 public class TestMain {
 
 	public static void method(String str) {

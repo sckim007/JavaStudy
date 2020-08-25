@@ -1,5 +1,12 @@
 package ch08.method.dynamic.main1;
 
+/** 요약
+ * 
+ * @author sckim007@gmail.com
+ *
+ * 문자열 열거를 이용한 동적 파라미터의 이용 연습
+ * 문자열 배열을 이용한 함수의 이용
+ */
 public class TestMain {
 
 	public static void main(String[] args) {

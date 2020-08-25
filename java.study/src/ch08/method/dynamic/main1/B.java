@@ -4,7 +4,7 @@ package ch08.method.dynamic.main1;
  * 
  * @author sckim007@gmail.com
  *
- * 문자열 배열을 입력받아 출력하는 함수를 구현한 클랙스
+ * 문자열 배열을 입력받아 출력하는 함수를 구현한 클래스
  */
 public class B {
 	/** 배열파라메터 사용 */
