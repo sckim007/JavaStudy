@@ -1,4 +1,4 @@
-package ch13.javafx.applicationstagescene.main2.sub1;
+package ch13.javafx.application_stage_scene.main2.sub1;
 
 import javafx.application.Application;
 import javafx.stage.Stage;
